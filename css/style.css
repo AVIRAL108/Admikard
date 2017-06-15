@@ -1,0 +1,155 @@
+.blue-color{
+	background-color: #003cb3;
+	color:#ffffff;
+	padding:15px;
+	font-size:17px;
+	margin-top:-35px;
+}
+.navbar{
+	background-color: #ffffff;
+}
+.white-box{
+	background-color: #ffffff;
+	border:1px #808080 solid;
+}
+body{
+	background-color: #f1f1f1;
+	margin-top:90px;
+}
+
+.block2{
+	margin: 20px;
+}
+#container {
+  width: 100px;
+  height: 100px;
+}
+.round-corners{
+		border-radius: 10px 0px 0px 0px;
+}
+.round-corner{
+	border-radius: 0px 10px 10px 0px;
+}
+
+.blocks
+{
+    border:1px #808080 solid;
+	padding :10px;
+    background-color: #003cb3;
+	color:#ffffff;
+}
+.danger{
+	color: red;
+	text-align: left;
+}
+.head-table{
+	background-color: #003cb3;
+	color:#ffffff;
+
+}
+.block1 {
+	margin:20px;
+	border-radius:8px;
+	box-shadow: 2px 2px 2px #888888;
+}
+hr{
+	color:#000000;
+	background-color: #000000;
+}
+.blue-color1{
+color:#003cb3;	
+}
+.bottom-color{
+	border-bottom: 4px #003cb3 solid;
+	box-shadow: 2px 2px 2px #888888;
+	border-radius: 5px;
+	margin-top:10px;
+}
+.mid-box{
+	border-bottom: 1px solid #cce5ff;
+}
+.verticalLine {
+  border-right: 1px solid #cce5ff;
+}
+.box-button{
+background-color: #003cb3;
+color:#ffffff;
+border-radius:5px;
+padding:5px;
+margin:4px;
+}
+.box-button1{
+background-color: #003cb3;
+color:#ffffff;
+border-radius:5px;
+margin-top:10px;
+}
+
+.main-color{
+	color:#334d4d;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.pit{
+	padding:10px;
+}
+
+
+.col-sm-3 .nav-pills > .active > a, .nav-pills > .active > a:hover {
+    background-color: #003cb3;
+
+}
+.col-sm-3 .nav-pills{
+width:110%;
+margin-left:-15px;
+}
+.col-sm-8 .nav-pills li a, .nav-pills li a {
+	background-color: #ffffff;
+	color:#000000;
+
+}
+.col-sm-8 .nav-pills li a:hover, .nav-pills li a:hover {
+	background-color:#003cb3;
+	color:#ffffff;
+	border-color: 1px solid #003cb3;
+
+}
+.col-sm-8 .nav-pills .main-frame{
+border:1px solid #808080;
+}
+.box-button2{
+background-color: #003cb3;
+color:#ffffff;
+border-radius:5px;
+padding: 11px;
+width:100%;
+border:1px solid #808080;
+margin-left: 2px;
+}
+.footer{
+	background-color:#1d1d18;
+	color:#ffffff;
+	padding:15px;
+}
+#footer-note{
+	color:#ccff33;
+}
+.social{
+	color:#ffffff;
+	padding: 5px;
+	text-align: center;
+	align-items: center;
+}
+.social:hover{
+	color:#003cb3;
+}
+.nav-link{
+	color:#ffffff;
+}
+
+.nav-link:hover{
+	color:#ffffff;
+}
+.scale-top{
+	margin-top:10px;
+}
